@@ -1,2 +1,2 @@
-# first-website.github.io
+# first-website
 Single page website.
